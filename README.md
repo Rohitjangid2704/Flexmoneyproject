@@ -1,3 +1,10 @@
+Screenshots
+<img width="1321" alt="Screenshot 2023-12-19 at 11 27 48 PM" src="https://github.com/Rohitjangid2704/Flexmoneyproject/assets/121655495/233fce1d-f6d8-470e-b98b-192e547c0d38">
+
+<img width="1439" alt="Screenshot 2023-12-19 at 11 28 36 PM" src="https://github.com/Rohitjangid2704/Flexmoneyproject/assets/121655495/7ee085e1-8169-4fc3-b813-a63d59d71dfb">
+
+
+
 # Yoga Classes Frontend
 
 This is the frontend application for the Yoga Classes project.
